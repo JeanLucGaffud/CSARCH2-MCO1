@@ -41,7 +41,7 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/ndvKv4
 
 ## 3. Local Manila Build
 This build uses **locally available parts** from Manila vendors.
-Google spreadsheet link: [https://docs.google.com/spreadsheets/d/1Z_oQBfhuihaOc44S0NKI8P9-z9PhoQGjrI0pvw9muhs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1qRwvaeUCnfAKSuTzUi7RExqpWYilCR7rpeO8edcRLdk/edit?gid=533572080#gid=533572080)
+Google spreadsheet link: https://docs.google.com/spreadsheets/d/1qRwvaeUCnfAKSuTzUi7RExqpWYilCR7rpeO8edcRLdk/edit?gid=533572080#gid=533572080
 
 
 ### Local Build Table
@@ -98,7 +98,7 @@ We learned that PC building is not just about find the most expensive and powerf
 
 ---
 ## 7. Video pitch
-- Your video link here  
+- https://youtu.be/Zqvsr3ORPJA
 
 ## 8. References
 - PCExpress Link: https://pcx.com.ph/pages/download-pc-express-pricelist 
