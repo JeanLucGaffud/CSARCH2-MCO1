@@ -27,7 +27,7 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/3Xvyh7
 |-----------------|-------|-----------------|-------|
 | CPU             | Intel Core i5-14400 2.5 GHz 10-Core Processor  | 257.99          | ...   |
 | CPU Cooler      | Cooler Master Hyper 212 Black Edition 42 CFM CPU Cooler   | 25.49            | may require a separately available mounting adapter to fit the Asus PRIME H610M-K Micro ATX LGA1700 Motherboard.  |
-| Motherboard     | Asus Prime B760M-K Micro ATX LGA1700 Motherboard   | No Prices Available (but I found a listing for 149.73)            | may require a bios update before using with CPU, A USB 2.0 to USB 3.2 Gen 1 header adapter is required, A USB 3.2 Gen 1 to USB 3.2 Gen 2 header adapter is required. |
+| Motherboard     | Asus Prime B760M-K Micro ATX LGA1700 Motherboard   | No Prices Available (but I found a listing for 149.73)            | may require a bios update before using with CPU, A USB 2.0 to USB 3.2 Gen 1 header adapter is required, A USB 3.2 Gen 1 to USB 3.2 Gen 2 header adapter is required. No Wifi or Bluetooth. |
 | RAM             | Kingston FURY Beast 16 GB (1 x 16 GB) DDR5-5200 CL40 Memory  | 52.99             | ...   |
 | Storage 1       |Samsung 990 EVO Plus 1 TB M.2-2280 PCIe 5.0 X2 NVME Solid State Drive | 69.98             | ...   |
 | Storage 2       | Omitted  | ...             | ...   |
@@ -49,7 +49,7 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1Z_oQBfhuihaOc44
 |-----------------|-------------|--------------------|-------------|--------------------------------------|
 | CPU             | Intel Core i5-14400        | DynaQuest (https://dynaquestpc.com/products/intel-core-i5-14400-20m-cache-up-to-4-70ghz-lga-1700-processor-tray?variant=50528540262693) | 10,135.00         | Socket LGA1700 compatible with B760M |
 | CPU Cooler      | COOLER MASTER HYPER 212 SPECTRUM V3 RGB CPU Cooler Fan         | PCExpress (https://pcx.com.ph/products/cooler-master-hyper-212-spectrum-v3-rgb-cpu-cooler-fan?_pos=2&_sid=9b04ad997&_ss=r)    | 1,300.00         | may require a separately available mounting adapter to fit the Asus PRIME H610M-K Micro ATX LGA1700 Motherboard. |
-| Motherboard     | Asus Prime B760M-K D5 mATX (LGA 1700) Motherboard         | DynaQuest (https://dynaquestpc.com/products/asus-prime-b760m-k-d5-matx-lga-1700-motherboard?_pos=1&_psq=b760m&_ss=e&_v=1.0) | 6,645.00       | may require a bios update before using with CPU, A USB 2.0 to USB 3.2 Gen 1 header adapter is required, A USB 3.2 Gen 1 to USB 3.2 Gen 2 header adapter is required.                    |
+| Motherboard     | Asus Prime B760M-K D5 mATX (LGA 1700) Motherboard         | DynaQuest (https://dynaquestpc.com/products/asus-prime-b760m-k-d5-matx-lga-1700-motherboard?_pos=1&_psq=b760m&_ss=e&_v=1.0) | 6,645.00       | may require a bios update before using with CPU, A USB 2.0 to USB 3.2 Gen 1 header adapter is required, A USB 3.2 Gen 1 to USB 3.2 Gen 2 header adapter is required. No Wifi or Bluetooth.                   |
 | RAM             |  KINGSTON 16GB DDR5 5200MHZ FURY BEAST BLK RAM       | PCExpress (https://pcx.com.ph/products/kingston-16gb-ddr5-5200mhz-fury-beast-blk-ram?_pos=6&_sid=9b46094e6&_ss=r) | 2,700.00      | DDR5-5200 CL40; matches motherboard spec               |
 | Storage 1 (SSD) |   SAMSUNG 1TB 990 EVO PCIe NVMe M.2 Solid State Drive    | PCExpress (https://pcx.com.ph/products/samsung-1tb-990-evo-pcie-nvme-m-2-solid-state-drive?_pos=1&_sid=549f94013&_ss=r) | 4,800.00        | PCIe 4.0 NVMe M.2, supported by motherboard              |
 | Storage 2 (HDD) | Omitted        |  | 0       | Justification: 1TB sufficient for OS and games              |
@@ -82,6 +82,7 @@ Example:
 - Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
 - ***Prioritized GPU over secondary storage***: We allocated a significant portion of the budget (₱26,100) to the RTX 5060 Ti, which is essential to achieving our target of 60+ FPS in AAA games at 1080p high settings. As a result, we could not put more resource in other parts like skipping out on a 2nd storage unit.
 - ***Striking the balance between costs instead of more expensive options***: For instance, we chose a low price cooler instead of a high-end on to save on cost for the GPU. We opted for reliable but budget-friendly options, balancing the cuts in cost to affording more suitable components to fit the requirements.
+- ***Lack of Bluetooth and Wi-Fi connectivity of the motherboard***: We prioritized performance-to-cost ratio over quality of life features of the motherboard's bluetooth and wifi.
 ---
 
 ## 6. Conclusion & Learnings
