@@ -77,7 +77,7 @@ Example:
 
 ## 5. Budget Analysis
 - **Budget Limit**: ₱60,000  
-- **Final Total**: ₱59,680  
+- **Final Total**: ₱57,895
 - ✅ Within budget
 - Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
 - ***Prioritized GPU over secondary storage***: We allocated a significant portion of the budget (₱26,100) to the RTX 5060 Ti, which is essential to achieving our target of 60+ FPS in AAA games at 1080p high settings. As a result, we could not put more resource in other parts like skipping out on a 2nd storage unit.
