@@ -20,12 +20,12 @@ Built within a strict budget of PHP 60,000, we prioritized current-generation co
 
 ## 2. Draft Build (PCPartPicker)
 This build uses **PCPartPicker System Builder** for compatibility check. 
-PCPartPicker Permalink: https://pcpartpicker.com/list/3Xvyh7 
+PCPartPicker Permalink: https://pcpartpicker.com/list/ndvKv4
 
 ### Summary Table 
 | Component       | Model | Price (USD) | Notes |
 |-----------------|-------|-----------------|-------|
-| CPU             | Intel Core i5-14400 2.5 GHz 10-Core Processor  | 257.99          | ...   |
+| CPU             | Intel Core i5-14400F 2.5 GHz 10-Core Processor  | 257.99          | The 14400F has no integrated graphics card but is faster and cheaper than its counterpart with a GPU.   |
 | CPU Cooler      | Cooler Master Hyper 212 Black Edition 42 CFM CPU Cooler   | 25.49            | may require a separately available mounting adapter to fit the Asus PRIME H610M-K Micro ATX LGA1700 Motherboard.  |
 | Motherboard     | Asus Prime B760M-K Micro ATX LGA1700 Motherboard   | No Prices Available (but I found a listing for 149.73)            | may require a bios update before using with CPU, A USB 2.0 to USB 3.2 Gen 1 header adapter is required, A USB 3.2 Gen 1 to USB 3.2 Gen 2 header adapter is required. No Wifi or Bluetooth. |
 | RAM             | Kingston FURY Beast 16 GB (1 x 16 GB) DDR5-5200 CL40 Memory  | 52.99             | ...   |
@@ -47,7 +47,7 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1Z_oQBfhuihaOc44
 ### Local Build Table
 | Component       | Model       | Vendor & Link      | Price (Php) | Compatibility Notes                  |
 |-----------------|-------------|--------------------|-------------|--------------------------------------|
-| CPU             | Intel Core i5-14400        | DynaQuest (https://dynaquestpc.com/products/intel-core-i5-14400-20m-cache-up-to-4-70ghz-lga-1700-processor-tray?variant=50528540262693) | 10,135.00         | Socket LGA1700 compatible with B760M |
+| CPU             | Intel Core i5-14400F        | DynaQuest (https://dynaquestpc.com/products/intel-core-i5-14400f-20m-cache-up-to-4-70ghz-lga-1700-processor) | 10,135.00         | Socket LGA1700 compatible with B760M |
 | CPU Cooler      | COOLER MASTER HYPER 212 SPECTRUM V3 RGB CPU Cooler Fan         | PCExpress (https://pcx.com.ph/products/cooler-master-hyper-212-spectrum-v3-rgb-cpu-cooler-fan?_pos=2&_sid=9b04ad997&_ss=r)    | 1,300.00         | may require a separately available mounting adapter to fit the Asus PRIME H610M-K Micro ATX LGA1700 Motherboard. |
 | Motherboard     | Asus Prime B760M-K D5 mATX (LGA 1700) Motherboard         | DynaQuest (https://dynaquestpc.com/products/asus-prime-b760m-k-d5-matx-lga-1700-motherboard?_pos=1&_psq=b760m&_ss=e&_v=1.0) | 6,645.00       | may require a bios update before using with CPU, A USB 2.0 to USB 3.2 Gen 1 header adapter is required, A USB 3.2 Gen 1 to USB 3.2 Gen 2 header adapter is required. No Wifi or Bluetooth.                   |
 | RAM             |  KINGSTON 16GB DDR5 5200MHZ FURY BEAST BLK RAM       | PCExpress (https://pcx.com.ph/products/kingston-16gb-ddr5-5200mhz-fury-beast-blk-ram?_pos=6&_sid=9b46094e6&_ss=r) | 2,700.00      | DDR5-5200 CL40; matches motherboard spec               |
@@ -57,14 +57,14 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1Z_oQBfhuihaOc44
 | PSU             | MSI 650W MAG A650BN 80+ Bronze True Rated Power Supply         | PCExpress (https://pcx.com.ph/products/msi-650w-mag-a650bn-80-bronze-true-rated-power-supply?_pos=10&_sid=80047324f&_ss=r) | 3,150.00        | 80 Plus Bronze certified for high efficiency|
 | Case            | NZXT H5 Flow TG (2024) ATX Mid-Tower       | DynaQuest (https://dynaquestpc.com/products/nzxt-h5-flow-tg-2024-atx-black-case-cc-h52fb-01?_pos=6&_psq=nzxt+flow&_ss=e&_v=1.0)   | 4,850.00         | When the MSI VENTUS 2X PLUS OC GeForce RTX 5060 Ti 8 GB Video Card is used, the maximum depth for the NZXT H5 Flow (2024) ATX Mid Tower Case front radiator mount is reduced to 183 mm.|
 | Case Fans       | two 120mm Quiet Airflow fans       | included with the case    | 0         | Case includes 2×120mm front and 1×120mm rear fans pre-installed in the case                     |
-| **Total**       |             |                    | ***PHP 59,680.00*** | Within budget ✅ ***YES***                       |
+| **Total**       |             |                    | ***PHP 57,895.00*** | Within budget ✅ ***YES***                       |
 
 ---
 
 ## 4. Compatibility Justification
 For each part, explain compatibility and choices.  
 Example:  
-- **CPU + Motherboard**: The Intel Core i5-14400 uses the LGA1700 socket and is fully supported by the ASUS Prime B760M-K D5 motherboard, which features an LGA1700 socket and B760 chipset with out-of-the-box compatibility for 14th Gen Intel CPUs. The motherboard is capable for provided a stable power supply for the CPU.
+- **CPU + Motherboard**: The Intel Core i5-14400F uses the LGA1700 socket and is fully supported by the ASUS Prime B760M-K D5 motherboard, which features an LGA1700 socket and B760 chipset with out-of-the-box compatibility for 14th Gen Intel CPUs. The motherboard is capable for provided a stable power supply for the CPU.
 - **CPU Cooler**: COOLER MASTER HYPER 212 SPECTRUM V3 RGB CPU Cooler Fan supports LGA1700 mounting, dimensions fits comfortably within the NZXT H5 Flow case
 - **RAM**: The Kingston FURY Beast 16GB (2×8GB) DDR5-5200MHz matches the motherboard’s DDR5 memory and operates within its supported speed range 
 - ***Storage 1**: The Samsung 990 EVO 1TB NVMe M.2 SSD utilizes a PCIe 4.0 x4 interface, which is fully supported by the motherboard’s primary M.2 slot (PCIe 4.0 x4).
@@ -103,7 +103,7 @@ We learned that PC building is not just about find the most expensive and powerf
 ## 8. References
 - PCExpress Link: https://pcx.com.ph/pages/download-pc-express-pricelist 
 - DynaQuest Link: https://dynaquestpc.com/ 
-- PCPartPicker Link: https://pcpartpicker.com/list/3Xvyh7 
-- Google spreadsheet link: https://docs.google.com/spreadsheets/d/1Z_oQBfhuihaOc44S0NKI8P9-z9PhoQGjrI0pvw9muhs/edit?usp=sharing 
+- PCPartPicker Link: https://pcpartpicker.com/list/ndvKv4
+- Google spreadsheet link: https://docs.google.com/spreadsheets/d/1qRwvaeUCnfAKSuTzUi7RExqpWYilCR7rpeO8edcRLdk/edit?gid=533572080#gid=533572080
 - https://www.newegg.com/asus-motherboards-intel/p/1JW-000C-01705#:~:text=ASUS%20Prime%20B760%2DPLUS%20Intel,%24195 (site where I found the USD price listing for Asus Prime B760M-K Micro ATX LGA1700 Motherboard since PCPartPicker does not have it)
 
