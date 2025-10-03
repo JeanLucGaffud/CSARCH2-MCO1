@@ -35,7 +35,7 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/ndvKv4
 | Power Supply    | MSI MAG A650BN 650 W 80+ Bronze Certified ATX Power Supply  | 70.11           | ...   |
 | Case            | NZXT H5 Flow (2024) ATX Mid Tower Case  | 89.99           | When the MSI VENTUS 2X PLUS OC GeForce RTX 5060 Ti 8 GB Video Card is used, the maximum depth for the NZXT H5 Flow (2024) ATX Mid Tower Case front radiator mount is reduced to 183 mm.   |
 | Case Fans       | ...  | ...             | ...   |
-| **Total**       |       | **966.23 USD**     |       |
+| **Total**       |       | **$862.38 USD**     |       |
 
 ---
 
